@@ -21,7 +21,7 @@
 ---
 
 ### 💻 About Me
-I'm a passionate dev who loves coding in **C#** and **Python**, making mods, tools, and fun projects for the community. Always looking to learn new things and collab on cool stuff.  
+I'm a passionate dev who loves coding in **C#** and **Python**, making scripts, tools, and fun projects. Always looking to learn new things and work on cool stuff.  
 
 ---
 
@@ -30,5 +30,4 @@ I'm a passionate dev who loves coding in **C#** and **Python**, making mods, too
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 0 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 0 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50" style="margin: 0 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 0 15px;"/>
 </p>
