@@ -10,17 +10,11 @@
 
 ### 🔗 Connect with me
 <p align="center">
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+  <a href="https://www.youtube.com/@ArctiqsDevHub" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
+  <a href="https://discord.gg/CsMdeERN57" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.twitch.tv/yourtwitch" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
 </p>
 
