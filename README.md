@@ -24,13 +24,5 @@ I'm a passionate **Gorilla Tag** content creator. I love making engaging videos,
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50" style="margin: 0 15px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" height="50" style="margin: 0 15px;"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="50" height="50" style="margin: 0 15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968852.png" alt="YouTube" width="50" height="50" style="margin: 0 15px;"/>
 </p>
-
----
-
-### 📺 Content Highlights
-- Gorilla Tag gameplay and tricks  
-- Custom mods and scripting tutorials  
-- Community challenges and events  
-- Tools and utilities for Gorilla Tag players  
